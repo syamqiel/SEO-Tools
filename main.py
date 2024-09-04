@@ -2,7 +2,7 @@ import streamlit as st
 from pages import ping_tools, blog_walking_checker
 
 def main():
-    st.title("Aplikasi Multi-Fitur")
+    st.title("Aplikasi Multi-Fitur dev mode")
 
     # Buat tab sebagai navigasi horizontal
     tabs = st.tabs(["Ping Tools", "Blog Walking Comment Checker"])
